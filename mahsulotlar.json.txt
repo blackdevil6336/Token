@@ -1,0 +1,14 @@
+[
+    {
+        "kod": "101",
+        "nomi": "Qora palto",
+        "narxi": "250,000 so'm",
+        "rasm": "https://example.com/qora_palto.jpg"
+    },
+    {
+        "kod": "102",
+        "nomi": "Bodom kofta",
+        "narxi": "150,000 so'm",
+        "rasm": "https://example.com/bodom_kofta.jpg"
+    }
+]
